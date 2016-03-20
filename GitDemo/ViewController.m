@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"zengjia 4444444444");
+    NSLog(@"zengjia 4444444444555555");
 }
 
 - (void)didReceiveMemoryWarning {
